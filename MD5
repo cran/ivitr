@@ -1,0 +1,11 @@
+5155f25a83fb0724d31cbbffdb372357 *DESCRIPTION
+78153f6a0c4009fb8b7157faed902e45 *NAMESPACE
+029a6ac43c1a8302a993b7cd3647523c *R/IV_PILE.R
+66496fbd9a211de42627419d07bbd685 *R/dt_Rouse.R
+ef79f58f359e89a77ff67b5184d651ef *R/estimate_BP_bound.R
+aee2ec140f15875feccd36c9bbb62694 *R/estimate_Sid_bound.R
+86ed76f4fb25c50546e38231cbccc583 *data/dt_Rouse.rda
+f64e63b8b0fa625f2b048a4fadd069f6 *man/IV_PILE.Rd
+261580a86162378d24e33e8cc285a25e *man/dt_Rouse.Rd
+03d9b31cd5dbecc366a72ca6adecf02f *man/estimate_BP_bound.Rd
+b5d5b38d913437b39ac74fe96180e918 *man/estimate_Sid_bound.Rd
